@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "62c651856e1a5fac14d421b7"
+  },
+  "Parts_ID": "123",
+  "Part_Number": "487",
+  "Description": "Ban mobil",
+  "Purchase_Price": "500.000",
+  "Retail_Price": "300.000"
+}]

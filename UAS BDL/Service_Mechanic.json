@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "62c647276e1a5fac14d42151"
+  },
+  "Service_Ticket_ID": {
+    "Service_Ticket_ID": "0678"
+  },
+  "Service_id": {
+    "Service_ID": "067"
+  },
+  "Mechanic_ID": {
+    "Mechanic_ID": "3"
+  },
+  "Hours": "01.20 WIB",
+  "Comment": "ganti part",
+  "Rate": "500.000"
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "62c6450e6e1a5fac14d42146"
+  },
+  "Invoice_ID": "123",
+  "Invoice_Number": "13",
+  "Date": "ISODate(2022-03-01)",
+  "Car_Id": {
+    "Car_ID": "03"
+  },
+  "Custemer_id": {
+    "custemer_ID": "0234"
+  },
+  "Salesperson_id": {
+    "Salesperson_ID": "10"
+  }
+}]

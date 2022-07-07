@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "62c6506c6e1a5fac14d421a4"
+  },
+  "Service_ID": "067",
+  "Service_Name": "Service Mobil",
+  "Hourly_Rate": "2.500.000"
+}]

@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "62c649d66e1a5fac14d42154"
+  },
+  "Car_ID": "03",
+  "Serial_Number": "DK 2143 THG",
+  "Make": "jepang",
+  "Model": "MVP HONDA",
+  "Colour": "Blue",
+  "Year": "2018",
+  "Car for Sale Y/N": "2019"
+}]

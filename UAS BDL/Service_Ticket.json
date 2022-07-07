@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "62c64b436e1a5fac14d4216b"
+  },
+  "Service_Tiket_ID": "0678",
+  "Service_Ticket_Number": "16",
+  "Car_id": {
+    "Car_ID": "03"
+  },
+  "Custemer_id": {
+    "Cusemer_ID": "0234"
+  },
+  "Date_Received": "ISODate(2022-03-1)",
+  "Comments": "ganti ban mobil",
+  "Date Returned to Custemer": "ISODate(2022-03-01)"
+}]

@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "62c64d516e1a5fac14d4219e"
+  },
+  "Customer_ID": "0234",
+  "Last_Name": "Putra",
+  "First_Name": "Agada",
+  "Phone_Number": "+621234567890",
+  "Address": "Jl.Imam bonjol",
+  "City": "Denpasar",
+  "State/Province": "Bali",
+  "Country": "Indonesia",
+  "Postal_Code": "8011"
+}]

@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "62c64f1f6e1a5fac14d421a1"
+  },
+  "Parts_Used_ID": "0537",
+  "Part_id": {
+    "Parts_ID": "123"
+  },
+  "Server_Ticket_id": {
+    "Server_Ticket_ID": "0678"
+  },
+  "Number_Used": "89",
+  "Price": "1.500.000"
+}]
